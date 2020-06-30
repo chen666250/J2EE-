@@ -1,0 +1,7 @@
+*数据库设置文件是config文件夹的db.properties
+*mysql版本8.0.17
+
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://localhost:3306/LibraryManageSystem?serverTimezone=UTC
+jdbc.user=root
+jdbc.password=666250
